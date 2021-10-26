@@ -29,3 +29,5 @@ I'm a Web Developer from Brazil :brazil:, who have a degree in computer science 
 &nbsp;&nbsp;
 
 [![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=jorgecrodrigues&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fjorgecrodrigues&label=visitors&labelColor=%232ccce4&countColor=%23263759&style=flat-square)
